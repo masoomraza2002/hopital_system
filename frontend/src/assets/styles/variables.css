@@ -1,0 +1,23 @@
+
+
+:root {
+    --primary-color: #0d6efd; 
+    --secondary-color: #6c757d; 
+    --success-color: #198754;
+    --danger-color: #dc3545;
+    --warning-color: #ffc107;
+    --info-color: #0dcaf0;
+    --light-color: #f8f9fa;
+    --dark-color: #212529;
+
+    --font-family-inter: 'Inter', sans-serif;
+
+    --border-radius-sm: 0.25rem;
+    --border-radius-md: 0.5rem;
+    --border-radius-lg: 0.75rem;
+
+    --box-shadow-sm: 0 .125rem .25rem rgba(0,0,0,.075);
+    --box-shadow-md: 0 .5rem 1rem rgba(0,0,0,.15);
+}
+
+ 
